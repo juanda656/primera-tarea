@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Ejercicio 2-02 Tablas</title>
+   </head> 
+   <body>
+    <h3>Los 3 mejores libros del mundo:</h3>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicacion</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>Vivencias</td>
+            <td>Maria Luisa Piraquive</td>
+            <td>2007</td>
+            <td><a href="https://www.amazon.com/-/es/Mar%C3%ADa-Luisa-Piraquive-ebook/dp/B07CT88M1S/ref=sr_1_1?keywords=libro+de+vivencias+hermana+maria+luisa&qid=1686695574&sprefix=libro+de+vivencia%2Caps%2C257&sr=8-1">Click aqui para comprar</a></td>
+        </tr>
+        <tr>
+            <td>Revista Zion-Edicion 09</td>
+            <td>Ivan Dario Moreno</td>
+            <td>2014</td>
+            <td><a href="https://www.amazon.com/-/es/Ivan-Moreno-Piraquive-ebook/dp/B00JSWTK2K/ref=sr_1_1?crid=2FGXXD6R20TZH&keywords=revista+zion+internacional&qid=1686697035&sprefix=Revista+Zion%2Caps%2C575&sr=8-1">Click aqui para comprar</a></td> 
+        </tr>
+        <tr>
+                <td>Revista Zion-Edicion 10 </td>
+                <td>Ivan Dario Moreno</td>
+                <td>2014</td>
+                <td><a href="https://www.amazon.com/-/es/Ivan-Moreno-Piraquive-ebook/dp/B00JSWTHVE/ref=sr_1_2?crid=2FGXXD6R20TZH&keywords=revista+zion+internacional&qid=1686697035&sprefix=Revista+Zion%2Caps%2C575&sr=8-2">Click aqui para comprar</a></td>
+        </tr>
+    </table>
+   </body>
+</html>
